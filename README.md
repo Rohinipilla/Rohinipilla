@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rohinipilla
-- 👀 I’m interested in ... Web Development and Data Science
-- 🌱 I’m currently learning ...python,css,html for web development and mathematics used in data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Artificial Intelligence,Machine Learning and Full Stack Web Development
+- 🌱 I have Knowledge in python,C++ and Java. 
+- 💞️ I’m looking to collaborate on ... AI and ML projects
+- 📫 How to reach me ...Email: satyapilla2005@gmail.com
 
 <!---
 Rohinipilla/Rohinipilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
